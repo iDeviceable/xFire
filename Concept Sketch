@@ -1,0 +1,85 @@
+
+-----------------------Concept For Airsoft Social Media App-------------------------------------------------------
+
+							
+								
+                              --App Name Ideas--
+                             "xFire (Cross Fire)"
+								
+
+
+
+------------------------------Programming Language---------------------------------------------------------------
+
+									
+
+                                    "Xcode"
+
+						
+
+------------------------------Functions of the app---------------------------------------------------------------
+
+		
+
+
+			          - Direct messages / Group Chats
+		          	- Share & post airsoft events happening in the area
+		           	- Be able to subscribe to airsoft fields for notifications of events
+		          	- Notifications to remind users of events or other news updates
+		           	- Make detailed Schedules for meetings or events to share with others
+		           	- Page for posting new airsoft products like guns, clothing, and different accessories with a filter
+
+					
+
+
+--------------------------Main Elements (Different Pages)--------------------------------------------------------
+
+			User Profile
+				
+				-Different Types of Profiles
+					-Peronal Profile
+					-Team Profile
+					-Feild Profile
+				-Profile Picture / cover image
+				-bio
+				-status updates / posts
+				-privacy settings for posts
+				-"Subscribe" / "Follow Button"
+				-Team Association "Patches"
+
+------------------------------------------------------------------
+
+			Posts / Timeline
+
+				
+					-Personal Profile Type Posts
+						-Event Creation
+							-Event Title
+							-Event Organizer
+							-Time
+							-Location
+						-Pictues
+						-Videos
+
+
+					
+					-Team Profile Type Posts
+				
+						-Event Creation
+							-Event Title
+							-Event Organizer
+							-Time
+							-Location
+						-Pictues
+						-Videos
+						-Team Management
+
+------------------------------------------------------------------
+
+
+			Products and Product Reviews
+
+				-Filter between airsoft or paintball
+				-Filter for what you are looking for (Guns, clothing, grenades, setups, product reviews)
+				-Be able to comment on different products
+				-Be able to give a star based rating on products (1-5 stars)
